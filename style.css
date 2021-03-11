@@ -21,8 +21,8 @@
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: grey;
-    color: white;
+    background-color:#ddd;
+    color: black;
   }
 
   .tales {
